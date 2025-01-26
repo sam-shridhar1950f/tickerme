@@ -1,3 +1,3 @@
-# Stock Price Checker with SMS Notifications
+# stock price checker + sms notis
 
-A Python application that monitors stock prices and sends SMS notifications via Twilio when target prices are reached.
+side project to monitor buy prices w/o limit orders bc im broke 
